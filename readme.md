@@ -25,4 +25,4 @@
 
 hoặc
 
-[![Install](https://img.shields.io/badge/install-userscript-success)](https://github.com/1my3kk1/fptplay_theater_mode/raw/refs/heads/main/fptplay-theater-mode.user.js) cho nhanh ;)
+[![Install](https://img.shields.io/badge/install-userscript-success)](https://github.com/1my3kk1/tiktok_show_display_name_please/raw/refs/heads/main/tiktok_show_display_name_please.user.js) cho nhanh ;)
